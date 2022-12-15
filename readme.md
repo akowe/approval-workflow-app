@@ -2,6 +2,7 @@
 
 ## About this work flow app -  Laravel 5.7, PHP 7
 
+
 Approvers hierarchy: in each department
 
 Departments:
@@ -19,6 +20,48 @@ Operation Department
 - level2 	= middle level approver 	- Operation Manager
 - level1 	= junior level 				- operation staff
 
+
+LOGIN DETAILS 
+
+OPERATION DEPARTMENT
+
+Level 1 user:
+favour@cicod.com
+password is: 12345678
+
+Level 2 user (manager):
+mike@cicod.com
+password is: 12345678
+
+Level 3 user (chief):
+ugochi@cicod.com
+password is: 12345678
+
+
+Level 4 user (director):
+ibrahim@cicod.com
+password is: 12345678
+
+
+
+FINANCE DEPARTMENT
+
+Level 1 user:
+kenny@cicod.com
+password is: 12345678
+
+Level 2 user (manager):
+morris@cicod.com
+password is: 12345678
+
+Level 3 user (chief):
+williams@cicod.com
+password is: 12345678
+
+
+Level 4 user (director):
+ahmed@cicod.com
+password is: 12345678
 
 
 Database
